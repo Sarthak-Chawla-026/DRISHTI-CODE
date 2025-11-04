@@ -45,7 +45,7 @@ DrishtiCode/
 
 ---
 
-💡 Inspiration
+ ## 💡 Inspiration
 
 “Drishti” means vision in Sanskrit — DrishtiCode helps learners see beyond code by turning abstract logic into visual experiences.
 
@@ -56,7 +56,7 @@ If you'd like to add new visualizations or improve animations, feel free to fork
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Sarthak Chawla
 📧 chawlasarthak19@gmail.com
