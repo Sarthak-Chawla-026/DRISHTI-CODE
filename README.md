@@ -49,7 +49,7 @@ DrishtiCode/
 
 “Drishti” means vision in Sanskrit — DrishtiCode helps learners see beyond code by turning abstract logic into visual experiences.
 
-🛠️ Contributing
+## 🛠️ Contributing
 
 Contributions are welcome!
 If you'd like to add new visualizations or improve animations, feel free to fork the repo and create a pull request.
